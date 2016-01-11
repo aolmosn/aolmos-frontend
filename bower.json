@@ -1,0 +1,20 @@
+{
+  "name": "aolmos-frontend",
+  "description": "Diseño frontend Practica",
+  "main": "index.html",
+  "authors": [
+    "Andrés Felipe Olmos Navia"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "https://github.com/aolmosn/aolmos-frontend.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
